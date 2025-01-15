@@ -26,21 +26,18 @@
 * the deep fashion neural network
 
 ## code
-* SEND email to mama.xiao@suanfamama.com for detail inquiries
+* SEND an email to mama.xiao@suanfamama.com for detail inquiries
 
 ## project & product name
 * transformer^3
 
 ## core contributors
-* anying, 安迎，广州算法妈妈，anying@suanfamama.com
-* jinpei, 锦培，广州算法妈妈, jinpei@suanfamama.com
-* wei, 为，广州算法妈妈, wei.huang@suanfamama.com
-* youling, 优玲，广州算法妈妈, youling@suanfamama.com
-* wei, 纬，广州算法妈妈, wei@suanfamama.com
-* mama, 妈妈, 广州算法妈妈, mama.xiao@suanfamama.com
-
-## company
-* 算法妈妈, suanfamama, https://www.suanfamama.com/
+* anying, 安迎，算法妈妈，anying@suanfamama.com
+* jinpei, 锦培，算法妈妈, jinpei@suanfamama.com
+* wei, 为，算法妈妈, wei.huang@suanfamama.com
+* youling, 优玲，算法妈妈, youling@suanfamama.com
+* wei, 纬，算法妈妈, wei@suanfamama.com
+* mama, 妈妈, 算法妈妈, mama.xiao@suanfamama.com
 
 ## referneces
 * Weimin Shen, https://viterbi-web.usc.edu/~wmshen/, for the contribution of agent with mind
@@ -50,3 +47,14 @@
 * Keith Ross, https://sites.google.com/nyu.edu/keithross, for the contribution of networking and communication
 * Yuanlie He, for the contribution of scene understanding & reconstruction
 * Yongquan Yu, for the contribution of weights adaptation
+* Linus Torvalds, https://linustorvaldslinux.weebly.com/, for the contribution of os kernel capabilities
+* Robot Operating System, https://www.ros.org/, for the contribution of low level arch
+* Genesis, https://www.genesis-3d.com/, for the contribution of high level arch
+* PyTorch, https://pytorch.org/, for the contribution of deep learning framework
+* Suanfamama, https://www.suanfamama.com/, for the contribution of making the agent work
+* Leonard Adleman, https://adleman.usc.edu/, for the contribution of encription and decryption
+* Michael A. Arbib, https://viterbi.usc.edu/directory/faculty/Arbib/Michael, for the contribution of mapping capabilities to brain regions
+* Ellis Horowitz, https://ellishorowitz.com/, for the contribution of application level internet arch
+* Laurent Itti, http://ilab.usc.edu/itti/, for the contribution of agent planning
+* David Kempe, https://www.david-kempe.com/, for the contribution of algorithms complexity analysis in time and space
+* USC trojans, https://www.usc.edu/we-are-trojans/, for the contribution of the motto to be a symbol of victory, triumph, and regeneration
