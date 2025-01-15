@@ -1,34 +1,34 @@
-# the fashion queen agent from Suanfamama
+# the fashion queen agent from Suanfamama（算法妈妈）
 ## agent goal
-* CAPTURE the beauty at current and SHARE with the beloved ones in fashion
+* CAPTURE the beauty（美学捕捉） at current and SHARE with the beloved ones in fashion
 
 ## agent work showcase
 ![](./showcase/1.png)
 ![](./showcase/2.png)
 
-## technical aspects
+## agent technical aspects
 ## unified framework for both hardware and software - a conceptual model
-* USE ROS and Genesis for simulation
+* ROS and Genesis for simulation
 
 ## unified framework for internal and external - a conceptual model
-* USE tools such as sequential models, neural network etc to simulate the perception, planning and actions in fashion
+* Tools such as sequential models, neural network etc to simulate the perception, planning and actions in fashion env
 
 ## unified framework for agents with env - a conceptual model
-* USE tools such as sensors to communicate for collaboration and competition
-* Be harmony and be respect to the env
-* Learn from the env
+* Tools to communicate for collaboration and competition
+* Be harmony and be respected to the env
+* Learning from the env
 
 ## unified framework for live and beauty - a conceptual model
-* Beyond the phisical world, there is beauty.
-
-## our improved methamatical models
-* the turning machine for fashion
-* the deep neural network for fashion
+* Beyond phisical, there is beauty.
+* pruning
+## our proposed methamatical models
+* the turning fashion machine
+* the deep fashion neural network
 
 ## code
-* SEND email to mama.xiao@suanfamama.com for inquiries
+* SEND email to mama.xiao@suanfamama.com for detail inquiries
 
-## project name
+## project & product name
 * transformer^3
 
 ## core contributors
@@ -40,4 +40,13 @@
 * mama, 妈妈, 广州算法妈妈, mama.xiao@suanfamama.com
 
 ## company
-* 算法妈妈, https://www.suanfamama.com/
+* 算法妈妈, suanfamama, https://www.suanfamama.com/
+
+## referneces
+* Weimin Shen, https://viterbi-web.usc.edu/~wmshen/, for the contribution of agent with mind
+* Torsten Suel, http://engineering.nyu.edu/~suel/, for the contribution of pruning tech
+* Kaiming He, https://people.csail.mit.edu/kaiming/, for the contribution of vision understanding
+* Kevin Knight, https://kevincrawfordknight.github.io/, for the contribution of language understanding
+* Keith Ross, https://sites.google.com/nyu.edu/keithross, for the contribution of networking and communication
+* Yuanlie He, for the contribution of scene understanding & reconstruction
+* Yongquan Yu, for the contribution of weights adaptation
