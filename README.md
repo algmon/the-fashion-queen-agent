@@ -41,10 +41,8 @@
 
 ## referneces
 * Weimin Shen, https://viterbi-web.usc.edu/~wmshen/, for the contribution of agent with mind
-* Torsten Suel, http://engineering.nyu.edu/~suel/, for the contribution of pruning tech
 * Kaiming He, https://people.csail.mit.edu/kaiming/, for the contribution of vision understanding
 * Kevin Knight, https://kevincrawfordknight.github.io/, for the contribution of language understanding
-* Keith Ross, https://sites.google.com/nyu.edu/keithross, for the contribution of networking and communication
 * Yuanlie He, for the contribution of scene understanding & reconstruction
 * Yongquan Yu, for the contribution of weights adaptation
 * Linus Torvalds, https://linustorvaldslinux.weebly.com/, for the contribution of os kernel capabilities
@@ -57,5 +55,16 @@
 * Ellis Horowitz, https://ellishorowitz.com/, for the contribution of application level internet arch
 * Laurent Itti, http://ilab.usc.edu/itti/, for the contribution of agent planning
 * David Kempe, https://www.david-kempe.com/, for the contribution of algorithms complexity analysis in time and space
-* USC trojans, https://www.usc.edu/we-are-trojans/, for the contribution of the motto to be a symbol of victory, triumph, and regeneration
 * Yuhui Quan, https://csyhquan.github.io/, for the contribution of the agent's visual signal processing & understanding
+* Torsten Suel, http://engineering.nyu.edu/~suel/, for the contribution of pruning tech
+* Juan Rodriguez, https://engineering.nyu.edu/life-tandon/student-life/commencement/2021/profiles/juan-rodriguez, for the contribution of the agent's inverted index pruning
+* Phyllis Frankl, https://scholar.google.com/citations?hl=en&user=XE683E8AAAAJ, for the contribution of the agent's robotness
+* Keith Ross, https://sites.google.com/nyu.edu/keithross, for the contribution of agent's communication network design
+* Edward Wong, https://engineering.nyu.edu/faculty/edward-wong, for the contribution of agent's hallucination in fashion
+* Juliana Freire, https://vgc.engineering.nyu.edu/~juliana/, for the contribution of agents' data (mostly state and actions) storage & indexing & querying infra
+* Claudio Silva, https://engineering.nyu.edu/faculty/claudio-silva, for the contribution of agents' data (mostly state and actions) viz & analysis & prediction infra
+* Nasir Memon, https://engineering.nyu.edu/faculty/nasir-memon, for the contribution of agents' on & off networking infra
+* Lisa Hellerstein, https://wp.nyu.edu/tandonschoolofengineering-lisahellerstein/, for the contribution of agents' vertical database & knowledge base in fashion
+* Chunlin Duan, for the contribution of agents' theory development of fashion information flow
+* USC trojans, https://www.usc.edu/we-are-trojans/, for the contribution of the motto to be a symbol of victory, triumph, and regeneration
+* NYU traditions, https://www.nyu.edu/faculty/governance-policies-and-procedures/faculty-handbook/the-university/history-and-traditions-of-new-york-university/university-traditions.html, for the contribution of the motto to be Perstare et Praestare
