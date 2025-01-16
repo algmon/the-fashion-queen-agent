@@ -58,3 +58,4 @@
 * Laurent Itti, http://ilab.usc.edu/itti/, for the contribution of agent planning
 * David Kempe, https://www.david-kempe.com/, for the contribution of algorithms complexity analysis in time and space
 * USC trojans, https://www.usc.edu/we-are-trojans/, for the contribution of the motto to be a symbol of victory, triumph, and regeneration
+* Yuhui Quan, https://csyhquan.github.io/, for the contribution of the agent's visual signal processing & understanding
