@@ -6,26 +6,28 @@
 ![](./showcase/1.png)
 ![](./showcase/2.png)
 
+## agent theoretical aspects
+## agent practical aspects
 ## agent technical aspects
-## unified framework for both hardware and software - a conceptual model
+### unified framework for both hardware and software - a conceptual model
 * ROS and Genesis for simulation
 
-## unified framework for internal and external - a conceptual model
+### unified framework for internal and external - a conceptual model
 * Tools such as sequential models, neural network etc to simulate the perception, planning and actions in fashion env
 
-## unified framework for agents with env - a conceptual model
+### unified framework for agents with env - a conceptual model
 * Tools to communicate for collaboration and competition
 * Be harmony and be respected to the env
 * Learning from the env
 
-## unified framework for live and beauty - a conceptual model
+### unified framework for live and beauty - a conceptual model
 * Beyond phisical, there is beauty.
 * pruning
 ## our proposed methamatical models
 * the turning fashion machine
 * the deep fashion neural network
 
-## code
+### code
 * SEND an email to mama.xiao@suanfamama.com for detail inquiries
 
 ## project & product name
@@ -39,7 +41,7 @@
 * wei, 纬，算法妈妈, wei@suanfamama.com
 * mama, 妈妈, 算法妈妈, mama.xiao@suanfamama.com
 
-## referneces
+## referneces part1
 * Weimin Shen, https://viterbi-web.usc.edu/~wmshen/, for the contribution of agent with mind
 * Kaiming He, https://people.csail.mit.edu/kaiming/, for the contribution of vision understanding
 * Kevin Knight, https://kevincrawfordknight.github.io/, for the contribution of language understanding
@@ -66,5 +68,17 @@
 * Nasir Memon, https://engineering.nyu.edu/faculty/nasir-memon, for the contribution of agents' on & off networking infra
 * Lisa Hellerstein, https://wp.nyu.edu/tandonschoolofengineering-lisahellerstein/, for the contribution of agents' vertical database & knowledge base in fashion
 * Chunlin Duan, for the contribution of agents' theory development of fashion information flow
+* Yann LeCun, https://yann.lecun.com/, for the contribution of 
+* Jeff Dean, https://x.com/jeffdean, for the contribution of evaluation on service latency, system throughput and coding
+
+## references part2
+* Zane Durante et al., Agent AI: Surveying the Horizons of Multimodal Interaction, https://arxiv.org/abs/2401.03568
+* ROS, https://www.ros.org/
+* Genesis, https://genesis-embodied-ai.github.io/
+
+## references part3
+* Building a General Theory of Evolution by Leonard Adleman, 2024-12
+
+## extras
 * USC trojans, https://www.usc.edu/we-are-trojans/, for the contribution of the motto to be a symbol of victory, triumph, and regeneration
 * NYU traditions, https://www.nyu.edu/faculty/governance-policies-and-procedures/faculty-handbook/the-university/history-and-traditions-of-new-york-university/university-traditions.html, for the contribution of the motto to be Perstare et Praestare
