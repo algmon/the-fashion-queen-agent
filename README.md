@@ -42,8 +42,8 @@
 * mama, 妈妈, 算法妈妈, mama.xiao@suanfamama.com
 
 ## referneces part1
-* Weimin Shen, https://viterbi-web.usc.edu/~wmshen/, for the contribution of agent with mind
-* Kaiming He, https://people.csail.mit.edu/kaiming/, for the contribution of vision understanding
+* Weimin Shen, https://viterbi-web.usc.edu/~wmshen/, for the contribution of adaptive, self-reconfigurable, autonomous robots and systems
+* Kaiming He, https://people.csail.mit.edu/kaiming/, for the contribution of large vision models
 * Kevin Knight, https://kevincrawfordknight.github.io/, for the contribution of language understanding
 * Yuanlie He, for the contribution of scene understanding & reconstruction
 * Yongquan Yu, for the contribution of weights adaptation
@@ -57,7 +57,7 @@
 * Ellis Horowitz, https://ellishorowitz.com/, for the contribution of application level internet arch
 * Laurent Itti, http://ilab.usc.edu/itti/, for the contribution of agent planning
 * David Kempe, https://www.david-kempe.com/, for the contribution of algorithms complexity analysis in time and space
-* Yuhui Quan, https://csyhquan.github.io/, for the contribution of the agent's visual signal processing & understanding
+* Yuhui Quan, https://csyhquan.github.io/, for the contribution of models for visual signal processing & understanding
 * Torsten Suel, http://engineering.nyu.edu/~suel/, for the contribution of pruning tech
 * Juan Rodriguez, https://engineering.nyu.edu/life-tandon/student-life/commencement/2021/profiles/juan-rodriguez, for the contribution of the agent's inverted index pruning
 * Phyllis Frankl, https://scholar.google.com/citations?hl=en&user=XE683E8AAAAJ, for the contribution of the agent's robotness
