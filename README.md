@@ -78,7 +78,8 @@
 
 ## references part3
 * Building a General Theory of Evolution by Leonard Adleman, 2024-12
+* Artificial Intelligence: A Modern Approach by Stuart Russell and Peter Norvig, 2022-08
 
-## extras
+## extras & belief
 * USC trojans, https://www.usc.edu/we-are-trojans/, for the contribution of the motto to be a symbol of victory, triumph, and regeneration
 * NYU traditions, https://www.nyu.edu/faculty/governance-policies-and-procedures/faculty-handbook/the-university/history-and-traditions-of-new-york-university/university-traditions.html, for the contribution of the motto to be Perstare et Praestare
