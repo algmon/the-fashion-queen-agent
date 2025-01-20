@@ -1,4 +1,4 @@
-# the fashion queen agent from Suanfamama（算法妈妈）
+# the intelligent agent for fashion from Suanfamama（算法妈妈）
 ## agent goal
 * CAPTURE the beauty（美学捕捉） at current and SHARE with the beloved ones in fashion
 
@@ -11,37 +11,38 @@
 ## agent technical aspects
 ### unified framework for both hardware and software - a conceptual model
 * ROS and Genesis for simulation
+* middleware
 
 ### unified framework for internal and external - a conceptual model
-* Tools such as sequential models, neural network etc to simulate the perception, planning and actions in fashion env
+* Tools such as sequential models, neural network etc to simulate the perception, planning, reasoning and action space in env for fashion
+* the pruning technique
 
 ### unified framework for agents with env - a conceptual model
-* Tools to communicate for collaboration and competition
-* Be harmony and be respected to the env
-* Learning from the env
+* Agents to communicate for collaboration and competition
+* The systems are learning from the env
 
-### unified framework for live and beauty - a conceptual model
-* Beyond phisical, there is beauty.
-* pruning
+### unified framework for basic living and advanced beauty appreciation - a conceptual model
+* Beyond basic living, there is beauty.
+
 ## our proposed methamatical models
 * the turning fashion machine
 * the deep fashion neural network
 
 ### code
-* SEND an email to mama.xiao@suanfamama.com for detail inquiries
+* The improved MIT license is applied and please SEND an email to mama.xiao@suanfamama.com for general inquiries
 
-## project & product name
+## project & product code
 * transformer^3
 
 ## core contributors
-* anying, 安迎，算法妈妈，anying@suanfamama.com
-* jinpei, 锦培，算法妈妈, jinpei@suanfamama.com
-* wei, 为，算法妈妈, wei.huang@suanfamama.com
-* youling, 优玲，算法妈妈, youling@suanfamama.com
-* wei, 纬，算法妈妈, wei@suanfamama.com
-* mama, 妈妈, 算法妈妈, mama.xiao@suanfamama.com
+* anying, 安迎，Suanfamama 算法妈妈，anying@suanfamama.com
+* jinpei, 锦培，Suanfamama 算法妈妈, jinpei@suanfamama.com
+* wei, 为，Suanfamama 算法妈妈, wei.huang@suanfamama.com
+* youling, 优玲，Suanfamama 算法妈妈, youling@suanfamama.com
+* wei, 纬，Suanfamama 算法妈妈, wei@suanfamama.com
+* mama, 妈妈, Suanfamama 算法妈妈, mama.xiao@suanfamama.com
 
-## referneces part1
+## referneces part1 - papers
 * Weimin Shen, https://viterbi-web.usc.edu/~wmshen/, for the contribution of adaptive, self-reconfigurable, autonomous robots and systems
 * Kaiming He, https://people.csail.mit.edu/kaiming/, for the contribution of large vision models
 * Kevin Knight, https://kevincrawfordknight.github.io/, for the contribution of language understanding
@@ -71,15 +72,17 @@
 * Yann LeCun, https://yann.lecun.com/, for the contribution of 
 * Jeff Dean, https://x.com/jeffdean, for the contribution of evaluation on service latency, system throughput and coding
 
-## references part2
+## references part2 - tools
 * Zane Durante et al., Agent AI: Surveying the Horizons of Multimodal Interaction, https://arxiv.org/abs/2401.03568
 * ROS, https://www.ros.org/
 * Genesis, https://genesis-embodied-ai.github.io/
 
-## references part3
+## references part3 - books
 * Building a General Theory of Evolution by Leonard Adleman, 2024-12
 * Artificial Intelligence: A Modern Approach by Stuart Russell and Peter Norvig, 2022-08
 
 ## extras & belief
+* GDUT, https://english.gdut.edu.cn/, for the contribution of 
 * USC trojans, https://www.usc.edu/we-are-trojans/, for the contribution of the motto to be a symbol of victory, triumph, and regeneration
 * NYU traditions, https://www.nyu.edu/faculty/governance-policies-and-procedures/faculty-handbook/the-university/history-and-traditions-of-new-york-university/university-traditions.html, for the contribution of the motto to be Perstare et Praestare
+* SCUT, https://www.scut.edu.cn/en/, for the contribution of 
