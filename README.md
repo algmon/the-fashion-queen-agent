@@ -1,4 +1,4 @@
-# the intelligent agent for fashion from Suanfamama（算法妈妈）
+# the robot intelligent agent for fashion
 ## agent goal
 * CAPTURE the beauty（美学捕捉） at current and SHARE with the beloved ones in fashion
 
