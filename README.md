@@ -34,19 +34,13 @@
 * wei, Suanfamama, wei@suanfamama.com
 * mama, Suanfamama, mama.xiao@suanfamama.com
 
-## referneces part1 - computer scientists
+## referneces part 1 - computer scientists
 * Weimin Shen, https://viterbi-web.usc.edu/~wmshen/, for the contribution of adaptive, self-reconfigurable, autonomous robots and systems
 * Kaiming He, https://people.csail.mit.edu/kaiming/, for the contribution of large vision models
 * Kevin Knight, https://kevincrawfordknight.github.io/, for the contribution of language understanding
 * Yuanlie He, for the contribution of scene understanding & reconstruction
 * Yongquan Yu, for the contribution of weights adaptation
-* Linus Torvalds, https://linustorvaldslinux.weebly.com/, for the contribution of os kernel capabilities
-* Robot Operating System, https://www.ros.org/, for the contribution of low level arch
-* Genesis, https://www.genesis-3d.com/, for the contribution of high level arch
-* PyTorch, https://pytorch.org/, for the contribution of deep learning framework
-* Suanfamama, https://www.suanfamama.com/, for the contribution of making the agent work
 * Leonard Adleman, https://adleman.usc.edu/, for the contribution of encription and decryption
-* Michael A. Arbib, https://viterbi.usc.edu/directory/faculty/Arbib/Michael, for the contribution of mapping capabilities to brain regions
 * Ellis Horowitz, https://ellishorowitz.com/, for the contribution of application level internet arch
 * Laurent Itti, http://ilab.usc.edu/itti/, for the contribution of agent planning
 * David Kempe, https://www.david-kempe.com/, for the contribution of algorithms complexity analysis in time and space
@@ -63,17 +57,34 @@
 * Chunlin Duan, for the contribution of agents' theory development of fashion information flow
 * Yann LeCun, https://yann.lecun.com/, for the contribution of 
 * Jeff Dean, https://x.com/jeffdean, for the contribution of evaluation on service latency, system throughput and coding
+* Linus Torvalds, https://linustorvaldslinux.weebly.com/, for the contribution of os kernel capabilities
+* Robot Operating System, https://www.ros.org/, for the contribution of low level arch
+* Genesis, https://www.genesis-3d.com/, for the contribution of high level arch
+* PyTorch, https://pytorch.org/, for the contribution of deep learning framework
+* Suanfamama, https://www.suanfamama.com/, for the contribution of making the agent work
+* Michael A. Arbib, https://viterbi.usc.edu/directory/faculty/Arbib/Michael, for the contribution of mapping capabilities to brain regions
 
-## references part2 - hardware and software tools
-* Zane Durante et al., Agent AI: Surveying the Horizons of Multimodal Interaction, https://arxiv.org/abs/2401.03568
+## references part 2 - hardware and software tools
 * ROS, https://www.ros.org/
 * Genesis, https://genesis-embodied-ai.github.io/
 
-## references part3 - typical books
-* Building a General Theory of Evolution by Leonard Adleman, 2024-12
-* Artificial Intelligence: A Modern Approach by Stuart Russell and Peter Norvig, 2022-08
+## references part 3 - typical books
+* AUTONOMOUS LEARNING FROM THE ENVIRONMENT by Weimin Shen, 1994
+* Building a General Theory of Evolution by Leonard Adleman, 2024
+* Artificial Intelligence: A Modern Approach by Stuart Russell and Peter Norvig, 2022
+* ? Who Needs Emotions? The Brain Meets the Robot by Michael A. Arbib, 2005
+* ? When brains meet buildings by Michael A. Arbib, 2024
 
-## extras & belief
+## references part 4 - papers
+* the Agent AI: Surveying the Horizons of Multimodal Interaction paper
+* A small Collatz Rule without the Plus One paper by Kevin Knight
+* A survey on 3D scene reconstruction by Yuanlie He
+* A survey on intelligent embedded system by Yongquan Yu
+
+## references part 5 - courses
+* Kaiming He, Deep Generative Models, https://mit-6s978.github.io/
+
+## references part 6 - misc & belief
 * GDUT, https://english.gdut.edu.cn/, for the contribution of 
 * USC trojans, https://www.usc.edu/we-are-trojans/, for the contribution of the motto to be a symbol of victory, triumph, and regeneration
 * NYU traditions, https://www.nyu.edu/faculty/governance-policies-and-procedures/faculty-handbook/the-university/history-and-traditions-of-new-york-university/university-traditions.html, for the contribution of the motto to be Perstare et Praestare
