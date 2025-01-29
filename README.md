@@ -34,19 +34,20 @@
 * wei, Suanfamama, wei@suanfamama.com
 * mama, Suanfamama, mama.xiao@suanfamama.com
 
-## referneces part 1 - computer scientists
+## referneces part 1 - Computer Scientists
+### Tier 1
 * Weimin Shen, https://viterbi-web.usc.edu/~wmshen/, for the contribution of adaptive, self-reconfigurable, autonomous robots and systems
 * Kaiming He, https://people.csail.mit.edu/kaiming/, for the contribution of large vision models
 * Kevin Knight, https://kevincrawfordknight.github.io/, for the contribution of language understanding
 * Yuanlie He, for the contribution of scene understanding & reconstruction
 * Yongquan Yu, for the contribution of weights adaptation
 * Leonard Adleman, https://adleman.usc.edu/, for the contribution of encription and decryption
-* Ellis Horowitz, https://ellishorowitz.com/, for the contribution of application level internet arch
-* Laurent Itti, http://ilab.usc.edu/itti/, for the contribution of agent planning
-* David Kempe, https://www.david-kempe.com/, for the contribution of algorithms complexity analysis in time and space
 * Yuhui Quan, https://csyhquan.github.io/, for the contribution of models for visual signal processing & understanding
 * Torsten Suel, http://engineering.nyu.edu/~suel/, for the contribution of pruning tech
 * Juan Rodriguez, https://engineering.nyu.edu/life-tandon/student-life/commencement/2021/profiles/juan-rodriguez, for the contribution of the agent's inverted index pruning
+* Chunlin Duan, for the contribution of agents' theory development of fashion information flow
+* Qi Wang, for the contribution of making the search faster at low-level
+### Tier 2
 * Phyllis Frankl, https://scholar.google.com/citations?hl=en&user=XE683E8AAAAJ, for the contribution of the agent's robotness
 * Keith Ross, https://sites.google.com/nyu.edu/keithross, for the contribution of agent's communication network design
 * Edward Wong, https://engineering.nyu.edu/faculty/edward-wong, for the contribution of agent's hallucination in fashion
@@ -54,19 +55,18 @@
 * Claudio Silva, https://engineering.nyu.edu/faculty/claudio-silva, for the contribution of agents' data (mostly state and actions) viz & analysis & prediction infra
 * Nasir Memon, https://engineering.nyu.edu/faculty/nasir-memon, for the contribution of agents' on & off networking infra
 * Lisa Hellerstein, https://wp.nyu.edu/tandonschoolofengineering-lisahellerstein/, for the contribution of agents' vertical database & knowledge base in fashion
-* Chunlin Duan, for the contribution of agents' theory development of fashion information flow
 * Yann LeCun, https://yann.lecun.com/, for the contribution of 
 * Jeff Dean, https://x.com/jeffdean, for the contribution of evaluation on service latency, system throughput and coding
 * Linus Torvalds, https://linustorvaldslinux.weebly.com/, for the contribution of os kernel capabilities
-* Robot Operating System, https://www.ros.org/, for the contribution of low level arch
-* Genesis, https://www.genesis-3d.com/, for the contribution of high level arch
-* PyTorch, https://pytorch.org/, for the contribution of deep learning framework
-* Suanfamama, https://www.suanfamama.com/, for the contribution of making the agent work
 * Michael A. Arbib, https://viterbi.usc.edu/directory/faculty/Arbib/Michael, for the contribution of mapping capabilities to brain regions
+* Ellis Horowitz, https://ellishorowitz.com/, for the contribution of application level internet arch
+* Laurent Itti, http://ilab.usc.edu/itti/, for the contribution of agent planning
+* David Kempe, https://www.david-kempe.com/, for the contribution of algorithms complexity analysis in time and space
 
 ## references part 2 - hardware and software tools
-* ROS, https://www.ros.org/
+* ROS, https://www.ros.org/, for the contribution of low level arch
 * Genesis, https://genesis-embodied-ai.github.io/
+* PyTorch, https://pytorch.org/, for the contribution of deep learning framework
 
 ## references part 3 - typical books
 * AUTONOMOUS LEARNING FROM THE ENVIRONMENT by Weimin Shen, 1994
@@ -76,10 +76,17 @@
 * ? When brains meet buildings by Michael A. Arbib, 2024
 
 ## references part 4 - papers
-* the Agent AI: Surveying the Horizons of Multimodal Interaction paper
-* A small Collatz Rule without the Plus One paper by Kevin Knight
-* A survey on 3D scene reconstruction by Yuanlie He
-* A survey on intelligent embedded system by Yongquan Yu
+4. Cite the Google 2017 paper, attention is all you need
+6. Cite the chatbot from Doubao
+7. Cite the improved chatbot from DeepSeek
+8. Cite the agent ai paper from Feifei Li et al.
+10. Cite the course from Erdem Bıyık of USC
+12. the Agent AI: Surveying the Horizons of Multimodal Interaction paper
+13. A small Collatz Rule without the Plus One paper by Kevin Knight
+14. A survey on 3D scene reconstruction by Yuanlie He
+15. A survey on intelligent embedded system by Yongquan Yu
+16. self2self by Yuhui Quan
+18. Generation Models with KB by Wei, Chunlin and Yunchi
 
 ## references part 5 - courses
 * Kaiming He, Deep Generative Models, https://mit-6s978.github.io/
