@@ -1,32 +1,24 @@
 # the robot intelligent agent for fashion
-## agent goal
-* CAPTURE the beauty（美学捕捉） at current and SHARE with the beloved ones in fashion
+## AI agent goal
+* the core task is to CAPTURE the beauty and SHARE them with the beloved ones for fashion
 
-## agent work showcase
+## AI agent outcome showcase
 ![](./showcase/1.png)
 ![](./showcase/2.png)
 
-## agent theoretical aspects
-## agent practical aspects
-## agent technical aspects
-### unified framework for both hardware and software - a conceptual model
+## AI agent technical aspect
+### unified framework for both hardware and software
 * ROS and Genesis for simulation
-* middleware
 
-### unified framework for internal and external - a conceptual model
+### unified framework for internal and external
 * Tools such as sequential models, neural network etc to simulate the perception, planning, reasoning and action space in env for fashion
-* the pruning technique
 
-### unified framework for agents with env - a conceptual model
+### unified framework for agents with env
 * Agents to communicate for collaboration and competition
-* The systems are learning from the env
+* learning from the env
 
-### unified framework for basic living and advanced beauty appreciation - a conceptual model
+### unified framework for basic living and advanced beauty appreciation
 * Beyond basic living, there is beauty.
-
-## our proposed methamatical models
-* the turning fashion machine
-* the deep fashion neural network
 
 ### code
 * The improved MIT license is applied and please SEND an email to mama.xiao@suanfamama.com for general inquiries
@@ -34,15 +26,15 @@
 ## project & product code
 * transformer^3
 
-## core contributors
+## core team & contributors
 * anying, 安迎，Suanfamama 算法妈妈，anying@suanfamama.com
+* youling, 优玲，Suanfamama 算法妈妈, youling@suanfamama.com
 * jinpei, 锦培，Suanfamama 算法妈妈, jinpei@suanfamama.com
 * wei, 为，Suanfamama 算法妈妈, wei.huang@suanfamama.com
-* youling, 优玲，Suanfamama 算法妈妈, youling@suanfamama.com
 * wei, 纬，Suanfamama 算法妈妈, wei@suanfamama.com
 * mama, 妈妈, Suanfamama 算法妈妈, mama.xiao@suanfamama.com
 
-## referneces part1 - papers
+## referneces part1 - scientist
 * Weimin Shen, https://viterbi-web.usc.edu/~wmshen/, for the contribution of adaptive, self-reconfigurable, autonomous robots and systems
 * Kaiming He, https://people.csail.mit.edu/kaiming/, for the contribution of large vision models
 * Kevin Knight, https://kevincrawfordknight.github.io/, for the contribution of language understanding
