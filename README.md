@@ -1,4 +1,4 @@
-# the robot intelligent agent for fashion
+# the intelligent AI agent for fashion from Suanfamama 算法妈妈
 ## AI agent goal
 * the core task is to CAPTURE the beauty and SHARE them with the beloved ones for fashion
 
@@ -27,14 +27,14 @@
 * transformer^3
 
 ## core team & contributors
-* anying, 安迎，Suanfamama 算法妈妈，anying@suanfamama.com
-* youling, 优玲，Suanfamama 算法妈妈, youling@suanfamama.com
-* jinpei, 锦培，Suanfamama 算法妈妈, jinpei@suanfamama.com
-* wei, 为，Suanfamama 算法妈妈, wei.huang@suanfamama.com
-* wei, 纬，Suanfamama 算法妈妈, wei@suanfamama.com
-* mama, 妈妈, Suanfamama 算法妈妈, mama.xiao@suanfamama.com
+* anying, Suanfamama, anying@suanfamama.com
+* youling, Suanfamama, youling@suanfamama.com
+* jinpei, Suanfamama, jinpei@suanfamama.com
+* wei, Suanfamama, wei.huang@suanfamama.com
+* wei, Suanfamama, wei@suanfamama.com
+* mama, Suanfamama, mama.xiao@suanfamama.com
 
-## referneces part1 - scientist
+## referneces part1 - computer scientists
 * Weimin Shen, https://viterbi-web.usc.edu/~wmshen/, for the contribution of adaptive, self-reconfigurable, autonomous robots and systems
 * Kaiming He, https://people.csail.mit.edu/kaiming/, for the contribution of large vision models
 * Kevin Knight, https://kevincrawfordknight.github.io/, for the contribution of language understanding
@@ -64,12 +64,12 @@
 * Yann LeCun, https://yann.lecun.com/, for the contribution of 
 * Jeff Dean, https://x.com/jeffdean, for the contribution of evaluation on service latency, system throughput and coding
 
-## references part2 - tools
+## references part2 - hardware and software tools
 * Zane Durante et al., Agent AI: Surveying the Horizons of Multimodal Interaction, https://arxiv.org/abs/2401.03568
 * ROS, https://www.ros.org/
 * Genesis, https://genesis-embodied-ai.github.io/
 
-## references part3 - books
+## references part3 - typical books
 * Building a General Theory of Evolution by Leonard Adleman, 2024-12
 * Artificial Intelligence: A Modern Approach by Stuart Russell and Peter Norvig, 2022-08
 
@@ -77,4 +77,4 @@
 * GDUT, https://english.gdut.edu.cn/, for the contribution of 
 * USC trojans, https://www.usc.edu/we-are-trojans/, for the contribution of the motto to be a symbol of victory, triumph, and regeneration
 * NYU traditions, https://www.nyu.edu/faculty/governance-policies-and-procedures/faculty-handbook/the-university/history-and-traditions-of-new-york-university/university-traditions.html, for the contribution of the motto to be Perstare et Praestare
-* SCUT, https://www.scut.edu.cn/en/, for the contribution of 
+* SCUT, https://www.scut.edu.cn/en/, for the contribution of
