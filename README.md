@@ -1,4 +1,7 @@
-# the intelligent AI agent for fashion from Suanfamama 算法妈妈
+# the intelligent AI agent for fashion from Suanfamama
+## News
+* 2025-02-03 We have our pre-print version of paper ready titled Improved Methods for AI Agent Pruning
+
 ## AI agent goal
 * the core task is to CAPTURE the beauty and SHARE them with the beloved ones for fashion
 
