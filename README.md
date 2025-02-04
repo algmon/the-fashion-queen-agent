@@ -1,5 +1,6 @@
 # the intelligent AI agent for fashion from Suanfamama
 ## News
+* 2025-02-04 We have our pre-print version of wisdom.graph.py implementation ready
 * 2025-02-03 We have our pre-print version of paper ready titled Improved Methods for AI Agent Pruning
 
 ## AI agent goal
