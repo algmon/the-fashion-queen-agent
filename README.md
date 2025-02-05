@@ -51,6 +51,8 @@
 * Juan Rodriguez, https://engineering.nyu.edu/life-tandon/student-life/commencement/2021/profiles/juan-rodriguez, for the contribution of the agent's inverted index pruning
 * Chunlin Duan, for the contribution of agents' theory development of fashion information flow
 * Qi Wang, for the contribution of making the search faster at low-level
+* Andrej Karpathy, for the contribution of developing the term vibe coding
+
 ### Tier 2
 * Phyllis Frankl, https://scholar.google.com/citations?hl=en&user=XE683E8AAAAJ, for the contribution of the agent's robotness
 * Keith Ross, https://sites.google.com/nyu.edu/keithross, for the contribution of agent's communication network design
