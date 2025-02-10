@@ -1,6 +1,6 @@
 # the intelligent AI agent for fashion from Suanfamama
 ## News
-* 2025-02-10 We add one demo for agent reasoning
+* 2025-02-10 We add one demo for agent planning
 * 2025-02-05 the up-to-date repo is here: https://gitee.com/suanfamama/the-fashion-queen-agent
 * 2025-02-04 We have our pre-print version of wisdom.graph.py implementation ready
 * 2025-02-03 We have our pre-print version of paper ready titled Improved Methods for AI Agent Pruning
