@@ -1,4 +1,4 @@
-# the intelligent AI agent for fashion from Suanfamama
+# an intelligent AI agent for fashion from Suanfamama
 ## News
 * 2025-02-10 We add one demo for agent perception
 * 2025-02-05 the up-to-date repo is here: https://gitee.com/suanfamama/the-fashion-queen-agent
