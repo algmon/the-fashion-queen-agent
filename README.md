@@ -1,5 +1,6 @@
 # an intelligent AI agent for fashion from Suanfamama
 ## News
+* 2025-02-11 We update our demo for agent perception and planning
 * 2025-02-10 We add one demo for agent perception
 * 2025-02-05 the up-to-date repo is here: https://gitee.com/suanfamama/the-fashion-queen-agent
 * 2025-02-04 We have our pre-print version of wisdom.graph.py implementation ready
