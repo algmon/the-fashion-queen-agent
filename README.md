@@ -1,5 +1,6 @@
 # an intelligent AI agent for fashion from Suanfamama
 ## News
+* 2025-02-13 We upload our meeting note about how to implement the cognitive cycle
 * 2025-02-11 We update our demo for agent perception and planning
 * 2025-02-10 We add one demo for agent perception
 * 2025-02-05 the up-to-date repo is here: https://gitee.com/suanfamama/the-fashion-queen-agent
@@ -105,3 +106,11 @@
 * USC trojans, https://www.usc.edu/we-are-trojans/, for the contribution of the motto to be a symbol of victory, triumph, and regeneration
 * NYU traditions, https://www.nyu.edu/faculty/governance-policies-and-procedures/faculty-handbook/the-university/history-and-traditions-of-new-york-university/university-traditions.html, for the contribution of the motto to be Perstare et Praestare
 * SCUT, https://www.scut.edu.cn/en/, for the contribution of
+
+## references part 7 - 如何构建智慧图
+1. 智慧图概念：智慧图是算法妈妈的知识产权产物，存在于智能体减脂相关论文中，未详细探讨其训练与预测。它以“元想法”替代深度神经网络中的神经元，元想法依功能分为感知、计划、推理、行动等类型，相比神经元更复杂高效，承载更多智慧。
+2. 元想法特性：元想法具有生命周期，不同元想法的生命周期相互连接形成元想法桥，存在非强因果关系。外界信号变化促使感知空间中元想法增多、减少、消亡或更新连接边权重。
+3. 智能体面临挑战与应对：智能体面临感知局限挑战，如未接触相关事物就难形成对应元想法。可通过拓展数据获取渠道、利用迁移学习解决。为扩大感知空间，算法妈妈寻找具身智能厂商合作。
+4. 智能体空间拓展：智能体从感知空间获取数据，如小红书笔记，生成元想法并传递到计划空间，产生更多计划元想法，实现智能体进化与计划空间拓展。
+5. 推理机制探讨：复杂任务需推理，简单任务无需。现有推理技术存在推理时间过长等问题，可考虑混合推理机制，简单问题直接检索知识库，复杂问题启用复杂推理方法。
+6. 循环训练与奖励函数：智慧图采用循环式训练流程，元想法在感知、计划、推理、行动空间循环，过程中元想法发生增减并建立因果联系。通过奖励函数量化智能体对环境影响，奖励函数依环境类型设计，可存在看似不合理奖励，强调灵活性，通过超参数调整和环境学习优化。
